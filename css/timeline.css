@@ -33,7 +33,7 @@
 }
 @media only screen and (max-width: 620px) {
   .single-timeline-area .timeline-date {
-      width: 100px;
+      width: 120px;
   }
 }
 .single-timeline-area .timeline-date::after {
