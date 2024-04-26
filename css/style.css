@@ -315,9 +315,9 @@ input:read-only {
   }
   
   table tr {
-    border-bottom: 3px solid #ddd;
-    display: block;
-    margin-bottom: .625em;
+    border-bottom: 0;
+    display: contents;
+    margin-bottom: 0;
   }
   
   table td {
