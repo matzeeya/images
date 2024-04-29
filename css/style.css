@@ -314,8 +314,14 @@ input:read-only {
     width: 1px;
   }
   
-  table tr {
+  table th {
     border-bottom: 0;
+    display: block;
+    margin-bottom: 0;
+  }
+  
+  table tr {
+    border-bottom: 1px solid #ddd;
     display: contents;
     margin-bottom: 0;
   }
